@@ -19,7 +19,7 @@ expo start
 ### 运行后端代码
 
 ```
-git clone https://git.garena.com/jinyang.li/pangolier.git
+git clone [https://git.garena.com/jinyang.li/pangolier.git](https://github.com/hen1183392934/SubscribeActivity-Api.git)
 
 npm install
 
