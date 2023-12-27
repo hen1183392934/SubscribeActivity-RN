@@ -1,4 +1,4 @@
-# entry-task
+# SubscribeActivity
 
 ## 简介
 
@@ -16,7 +16,7 @@ expo install
 expo start
 ```
 
-### 运行 api 代码
+### 运行后端代码
 
 ```
 git clone https://git.garena.com/jinyang.li/pangolier.git
